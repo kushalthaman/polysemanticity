@@ -8,3 +8,5 @@ We try to answer some of the following questions, both theoretically (with mathe
 1. Under what conditions does accidental polysemanticity happen, and at what rate?
 2. How can you tell whether polysemanticity was necessary or accidental? Can you tell just from the final, trained state of the model? Is “most” of the polysemanticity in real-world models necessary or accidental?
 3. From an interpretability perspective, how easy is it to deal with / disambiguate necessary vs accidental polysemanticity?
+
+You can find a more detailed summary of what we did at https://tmychow.com/stanford/cs199_polysemanticity/week10.html. 
