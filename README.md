@@ -9,4 +9,4 @@ We try to answer some of the following questions, both theoretically (with mathe
 2. How can you tell whether polysemanticity was necessary or incidental? Can you tell just from the final, trained state of the model? Is “most” of the polysemanticity in real-world models necessary or incidental?
 3. From an interpretability perspective, how easy is it to deal with / disambiguate necessary vs incidental polysemanticity?
 
-You can find a more detailed summary of preliminary experiments we did at https://tmychow.com/stanford/cs199_polysemanticity/week10.html, and a more detailed theoretical understanding of how incidental polysemanticity happens at https://www.alignmentforum.org/posts/sEyWufriufTnBKnTG/incidental-polysemanticity. 
+You can find a more detailed summary of preliminary experiments we did at https://tmychow.com/stanford/cs199_polysemanticity/week10.html, and a more detailed theoretical understanding of how incidental polysemanticity happens in [this paper](https://arxiv.org/abs/2312.03096).
