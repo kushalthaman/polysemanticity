@@ -7,6 +7,7 @@ You can find a more detailed theoretical understanding of how incidental polysem
 
 ## Citation 
 
+```bibtex
 @article{2312.03096,
   author = {Lecomte, Victor and Thaman, Kushal and Chow, Trevor and Schaeffer, Rylan and Koyejo., Sanmi},
   title = {Incidental Polysemanticity},
@@ -14,3 +15,4 @@ You can find a more detailed theoretical understanding of how incidental polysem
   journal = {arXiv preprint},
   eprint = {arXiv:2312.03096}
 }
+```
