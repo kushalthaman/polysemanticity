@@ -7,6 +7,7 @@ You can find a more detailed theoretical understanding of how incidental polysem
 
 ## Citation 
 
+```bibtex
 @misc{lecomte2024causes,
       title={What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes}, 
       author={Victor Lecomte and Kushal Thaman and Rylan Schaeffer and Naomi Bashkansky and Trevor Chow and Sanmi Koyejo},
@@ -15,3 +16,4 @@ You can find a more detailed theoretical understanding of how incidental polysem
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+``` 
