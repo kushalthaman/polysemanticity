@@ -7,12 +7,11 @@ You can find a more detailed theoretical understanding of how incidental polysem
 
 ## Citation 
 
-```bibtex
-@article{2312.03096,
-  author = {Lecomte, Victor and Thaman, Kushal and Chow, Trevor and Schaeffer, Rylan and Koyejo., Sanmi},
-  title = {Incidental Polysemanticity},
-  year = {2023.},
-  journal = {arXiv preprint},
-  eprint = {arXiv:2312.03096}
+@misc{lecomte2024causes,
+      title={What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes}, 
+      author={Victor Lecomte and Kushal Thaman and Rylan Schaeffer and Naomi Bashkansky and Trevor Chow and Sanmi Koyejo},
+      year={2024},
+      eprint={2312.03096},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
-```
